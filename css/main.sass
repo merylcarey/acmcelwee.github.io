@@ -84,21 +84,32 @@ body
   @include respond-to(800)
     padding: 0 $rs
   .blog-logo
-    width: $rs*7.5
-    height: $rs*7.5
+    width: $rs*6
+    height: $rs*6
     position: absolute
-    top: -$rs*3.75
+    top: -$rs*3
     right: 50%
-    margin-right: -$rs*3.75
+    margin-right: -$rs*3
     background-size: cover
     border-radius: 50%
     z-index: 99
-    text-indent: -9999px
-    border: 3px solid #fff
+    // text-indent: -9999px
+    border: 1px solid #ADA7A7
     background-color: #fff
     -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
     -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
     box-shadow: 0 1px 1px rgba(0,0,0,0.3)
+    -webkit-transform-style: preserve-3d
+    -moz-transform-style: preserve-3d
+    transform-style: preserve-3d
+  .blog-logo-text
+    text-align: center
+    display: block
+    vertical-align: middle
+    position: relative
+    top: 50%
+    transform: translateY(-50%)
+    font-size: 35px
   .blog-title
     margin: 0
     padding: $rs*5.25 $rs $rs/2
@@ -113,7 +124,7 @@ body
   .blog-description
     margin: 0 0 20px
     padding: 0 $rs*2
-    font-size: $rs/8*9
+    font-size: 30px
     line-height: 1.5
     color: #666
     text-align: center
