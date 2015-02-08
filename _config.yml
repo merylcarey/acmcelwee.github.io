@@ -12,11 +12,11 @@ email: meryl@merylcarey.com
 #blog logo
 # logo: "/assets/images/df_logo.jpg"
 # blog cover
-cover: "/assets/images/dumbbells.JPG"
+cover: "./assets/images/dumbbells.JPG"
 
 name: 'Meryl Carey'
 author: 'Meryl Carey'
-author_image: "/assets/images/author.jpg"
+author_image: "./assets/images/author.jpg"
 
 paginate:	5
 
