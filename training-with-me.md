@@ -11,3 +11,9 @@ I offer Individual and Semi-private Personal Training, Group Training, and Figur
 **Functional Movement**  
 **Mobility**  
 **Core Stability**  
+
+With the purchase of a package, I offer complimentary body-composition assessments, including:  
+**Skinfolds**  
+**Girth measurements**  
+**Before/after photos**  
+**Strength assessment**  
