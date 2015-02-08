@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Please contact me to set up your first free workout! Give it a go to see if I am the right fit for you.
+Please contact me to set up your first **free** workout! Give it a go to see if I am the right fit for you.
 
 Meryl Carey  
 <merylcarey@gmail.com>  
