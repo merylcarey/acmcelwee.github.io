@@ -2,10 +2,14 @@
 layout: default
 ---
 
+<!-- <div class="teaserimage"> -->
+    <!-- <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}> -->
+        <!-- Teaser Image -->
+    <!-- </div> -->
+<!-- </div> -->
+
 <div class="teaserimage">
-    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
-        Teaser Image
-    </div>
+  <img class="teaserimage-image" src="{{ site.cover }}" alt="Teaser Image" />
 </div>
 
 <header class="blog-header">
@@ -19,15 +23,25 @@ layout: default
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
+      <a href="/about/">About</a>
+      &nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="/training-with-me/">Training With Me</a>
+      &nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="/contact/">Contact</a>
+      <!-- &nbsp;&nbsp;·&nbsp;&nbsp; -->
+      <!-- <a href="/testimonials/">Testimonials</a> -->
+      <br />
+      <br />
       {% for social in site.social %}
         {% if social.url %}
-            <a class="icon-{{ social.icon }}" href="{{ social.url }}">
-              <i class="fa fa-{{ social.icon }}"></i>
-            </a>
+          {% if !forloop.last %}
             &nbsp;&nbsp;·&nbsp;&nbsp;
+          {% endif %}
+          <a class="icon-{{ social.icon }}" href="{{ social.url }}">
+            <i class="fa fa-{{ social.icon }}"></i>
+          </a>
         {% endif %}
       {% endfor %}
-      <a href="/about/">About</a>
     </div>
 </header>
 
@@ -82,7 +96,9 @@ layout: default
       {% if paginator.next_page %}
         <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
       {% endif %}
+      {% if paginator.next_page || paginator.previous_page %}
       <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% endif %}
       {% if paginator.previous_page %}
         {% if paginator.page == 2 %}
           <a class="older-posts" href="/">Newer posts &rarr;</a>
