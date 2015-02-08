@@ -16,7 +16,7 @@ cover: "/assets/images/dumbbells.JPG"
 
 name: 'Meryl Carey'
 author: 'Meryl Carey'
-author_image: "/assets/images/author.jpg"
+# author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
