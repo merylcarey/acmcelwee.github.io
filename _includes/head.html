@@ -5,8 +5,9 @@
   <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}" />
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.meta.title }}{% endif %}</title>
+  <meta name="description" content="{% if site.meta.description %}{{ site.meta.description }}{% else %}{{ site.subtitle }}{% endif %}" />
+  <meta keywords="{{ site.meta.keywords }}" />
 
   <meta name="HandheldFriendly" content="True" />
   <meta name="MobileOptimized" content="320" />
