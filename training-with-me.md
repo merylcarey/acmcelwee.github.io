@@ -14,10 +14,10 @@ Each session is tailored to your unique body, needs, and goals. Whether your goa
 **Core Stability**  
 **Flexibility**  
 
-With the purchase of sessions, I offer complimentary before-and-after Body Composition Assessments, including:  
+With the purchase of sessions, I offer complimentary Body Composition Assessments, including:  
 **Skinfold Measurements**  
 **Girth Measurements**  
-**Before/After photos**  
+**Before & After Photos**  
 **Strength Assessment**  
 
 Referral Program:  
