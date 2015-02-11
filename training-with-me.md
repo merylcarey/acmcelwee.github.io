@@ -5,6 +5,7 @@ permalink: /training-with-me/
 ---
 
 I offer Individual and Semi-private Personal Training, Group Training, and Figure Competition Coaching.  
+
 Each session is tailored to your unique body, needs, and goals. Whether your goal is to lose fat, gain muscle, enhance performance, or simply get moving, I can help you get there. I believe that balance is key, and have developed expertise in the following areas:  
 **Strength Training**  
 **Weight Lifting**  
