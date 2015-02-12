@@ -15,7 +15,7 @@ $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
 
 
 @mixin respond-to($breakpoint)
-  @media only screen and (max-width: $breakpoint + px)
+  @media only screen and (max-width: $breakpoint + px), only screen and (max-device-width: $breakpoint + px)
     @content
 
 // Only needed for syntax highlighting
