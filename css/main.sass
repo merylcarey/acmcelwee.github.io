@@ -9,7 +9,8 @@
   @include clearfix
 
 $rs: 16px
-$mobile_breakpoint: 600
+$mobile_breakpoint: 768
+$max_width: 900
 
 $font-serif: Linux Libertine
 $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
@@ -74,7 +75,7 @@ body
   position: relative
   padding: 0
   @include box-sizing(border-box)
-  @include respond-to(800)
+  @include respond-to($max_width + 100)
     padding: 0 $rs
   .blog-logo
     width: $rs*5
@@ -130,10 +131,10 @@ body
 
 .content
   width: 100%
-  max-width: 900px
+  max-width: $max_width + px
   margin: 0 auto
   @include box-sizing(border-box)
-  @include respond-to(800)
+  @include respond-to($max_width + 100)
     padding: 0 $rs*2
   @include respond-to($mobile_breakpoint)
     padding: 0 20px
@@ -260,7 +261,7 @@ body
       z-index: 9
       font-family: $font-sans
       @include box-sizing(border-box)
-      @include respond-to(800)
+      @include respond-to($max_width + 100)
         left: $rs
         right: $rs
     .post-title
@@ -461,7 +462,7 @@ body
       float: left
       width: 47%
       @include box-sizing(border-box)
-      @include respond-to(800)
+      @include respond-to($max_width + 100)
         width: 100%
         padding-bottom: $rs*2
       .index-headline
@@ -614,3 +615,11 @@ pre
     border: 0
     padding-right: 0
     padding-left: 0
+
+.post.training-with-me
+  .post-content
+    li
+      line-height: 23px
+      margin-bottom: 9px
+      padding-top: 0
+
