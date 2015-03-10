@@ -22,22 +22,20 @@ layout: default
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.subtitle }}</h2>
-    <div class="custom-links">
-      <a href="/about/">About</a>
-      &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="/training-with-me/">Training With Me</a>
-      &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="/testimonials/">Testimonials</a>
-      &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="/contact/">Contact</a>
-      <!-- &nbsp;&nbsp;·&nbsp;&nbsp; -->
-      <!-- <a href="/testimonials/">Testimonials</a> -->
-      <br />
-      <br />
+    <div class="navigation-links">
+      <a class="navigation-link" href="/about/">About</a>
+      <span class="link-divider">&nbsp;&nbsp;·&nbsp;&nbsp;</span>
+      <a class="navigation-link" href="/training-with-me/">Training With Me</a>
+      <span class="link-divider">&nbsp;&nbsp;·&nbsp;&nbsp;</span>
+      <a class="navigation-link" href="/testimonials/">Testimonials</a>
+      <span class="link-divider">&nbsp;&nbsp;·&nbsp;&nbsp;</span>
+      <a class="navigation-link" href="/contact/">Contact</a>
+    </div>
+    <div class="social-links">
       {% for social in site.social %}
         {% if social.url %}
           {% if !forloop.last %}
-            &nbsp;&nbsp;·&nbsp;&nbsp;
+          <span class="link-divider">&nbsp;&nbsp;·&nbsp;&nbsp;</span>
           {% endif %}
           <a class="icon-{{ social.icon }}" href="{{ social.url }}">
             <i class="fa fa-{{ social.icon }}"></i>
