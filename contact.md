@@ -25,7 +25,7 @@ Give it a go to see if I am the right fit for you.
   </label>
   <label id="form_message">
     Message
-    <textarea type="text" name="message" placeholder="Your message" id="form_message"></textarea>
+    <textarea type="text" name="message" placeholder="" id="form_message"></textarea>
   </label>
 
   <button type="submit" class="btn">Submit</button>
