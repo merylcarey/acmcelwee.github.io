@@ -7,7 +7,7 @@ permalink: /training-with-me/
 ---
 
 ### Services
-I offer Individual and Semi-Private Personal Training, Group Training (up to 5 people), and Figure Competition Coaching.
+I offer Individual and Semi-Private Personal Training, Group Training, and Figure Competition Coaching.
 
 ### What to Expect
 Each session is tailored to your unique body, needs, and goals. Whether your goal is to lose fat, gain muscle, enhance performance, or simply get moving, I can help you get there. Expect to work hard and be challenged, while becoming educated on fitness and maximizing your potential! 
