@@ -37,6 +37,24 @@ to the varying needs, goals and capabilities of her clients."</p>
 
 \- **Steve** &nbsp;&nbsp;&nbsp;&nbsp;<span class="testimonial-link">[Check it out on Yelp](http://www.yelp.com/biz/meryl-carey-personal-training-austin?hrid=0P67713Qe8UHJXpUu6ooAw)</span>
 
+<p class="testimonial-content">"Meryl Carey is a fantastic trainer that will keep you focused and on track with 
+whatever your workout goals may be. She blends patience, motivation, knowledge, toughness and quality into each 
+of her client's sessions. 
+<br/>
+<br/>
+I've been training with her for a little over two years and she is an integral part of why I enjoy working out 
+now. I've had other trainers before, but her workouts are perfect for my busy schedule. She is extremely 
+efficient in the time that we have together, allowing me to set personal goals that I never dreamed of being 
+able to achieve. I'm a mom of four kids (boy and triplet girls) AND I am now also a state power lifting record 
+holder! I highly recommend Meryl as a trainer regardless of your workout experience. Beginner to professional 
+athlete - you will achieve great things with her as your coach."</p>
+<p class-"testimonial-snippet">"Meryl blends patience, motivation, knowledge, toughness and quality into each 
+of her client's sessions. She is extremely efficient in the time that we have together, allowing me to set 
+personal goals that I never dreamed of being able to achieve. I'm a mom of four kids (boy and triplet girls) 
+AND I am now also a state power lifting record holder! You will achieve great things with her as your coach."</p>
+
+\- **Ruthann** &nbsp;&nbsp;&nbsp;&nbsp;<span class="testimonial-link">[Check it out on Yelp](http://www.yelp.com/biz/meryl-carey-personal-training-austin?hrid=zw9N08-Dd7LDgsbe2OqOxg)</span>
+
 <p class="testimonial-content">"I've been working out with Meryl for two years, and I can't say enough about
 how fantastic she is. She's actually better than she has to be - knowledgeable, patient, and willing to work
 hard for her people. She is a total badass, but she's really in it for the success of her clients. She says
