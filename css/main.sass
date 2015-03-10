@@ -395,6 +395,8 @@ body
     a
       color: #333
       text-decoration: underline
+    a.icon
+      text-decoration: none
     img
       max-width: 100%
       margin: 0 auto
@@ -535,6 +537,24 @@ body
     &:hover
       color: #333
 
+.btn
+  display: inline-block
+  text-align: center
+  letter-spacing: -0.02em
+  font-size: 15px
+  font-weight: 400
+  font-style: normal
+  text-decoration: none
+  cursor: pointer
+  height: 44px
+  background: #57ad68
+  color: #fff
+  vertical-align: middle
+  box-sizing: border-box
+  border-radius: 999em
+  line-height: 44px
+  padding: 0 18px
+
 .bottom-closer
   width: 100%
   position: relative
@@ -575,23 +595,6 @@ body
       text-shadow: 0px 1px 16px rgba(0,0,0,0.5), 0px 0px 1px rgba(0,0,0,0.5)
     .custom-links
       margin: 0 0 50px
-    .btn
-      display: inline-block
-      text-align: center
-      letter-spacing: -0.02em
-      font-size: 15px
-      font-weight: 400
-      font-style: normal
-      text-decoration: none
-      cursor: pointer
-      height: 44px
-      background: #57ad68
-      color: #fff
-      vertical-align: middle
-      box-sizing: border-box
-      border-radius: 999em
-      line-height: 44px
-      padding: 0 18px
 
 #disqus_thread
   margin-top: 50px
@@ -623,3 +626,27 @@ pre
       margin-bottom: 9px
       padding-top: 0
 
+.post.contact
+  .contact-form
+    padding-bottom: 50px
+    label, input, textarea
+      display: block
+      width: 100%
+      max-width: 600px
+    label
+      padding: 5px 0
+      font-size: $rs*1.2
+    input, textarea
+      border-radius: 5px
+      border: 0px solid rgba(160, 160, 159, 1)
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6)
+      color: rgba(96, 94, 94, 1)
+      margin-top: 5px
+      padding: 10px
+      font-size: 16px
+    textarea
+      height: 130px
+      margin: 2px 0 17px
+      resize: none
+    button
+      border: none
