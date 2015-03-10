@@ -13,19 +13,19 @@ Give it a go to see if I am the right fit for you.
   <input type="hidden" name="utf8" value="✓">
   <label id="form_name">
     Name
-    <input type="text" name="name" id="form_name"/>
+    <input type="text" name="name" placeholder="Jane Doe" id="form_name"/>
   </label>
   <label id="form_email">
     Email
-    <input type="text" name="email" id="form_email"/>
+    <input type="text" name="email" type="email" id="form_email" placeholder="you@yoursite.com" />
   </label>
   <label id="form_subject">
     Subject
-    <input type="text" name="subject" id="form_subject"/>
+    <input type="text" name="subject" placeholder="Looking for a trainer" id="form_subject"/>
   </label>
   <label id="form_message">
     Message
-    <textarea type="text" name="message" id="form_message"></textarea>
+    <textarea type="text" name="message" placeholder="Your message" id="form_message"></textarea>
   </label>
 
   <button type="submit" class="btn">Submit</button>
