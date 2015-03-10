@@ -13,7 +13,7 @@ I offer Individual and Semi-Private Personal Training, Group Training, and Figur
 Each session is tailored to your unique body, needs, and goals. Whether your goal is to lose fat, gain muscle, enhance performance, or simply get moving, I can help you get there. Expect to work hard and be challenged, while becoming educated on fitness and maximizing your potential! 
 
 ### Training Philosophy
-I believe that balance is key and value the benefit of adding variety into a workout program, helping you to maintain fitness on a well-rounded level. I have developed expertise in the following areas:
+I believe that balance is key and value the benefit of adding variety into each workout program, helping you to maintain fitness on a well-rounded level. I have developed expertise in the following areas:
 
 * **Strength Training**
 * **Weight Lifting**
