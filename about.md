@@ -12,8 +12,8 @@ Card in my very first competition. Throughout my athletic endeavors, I have suff
 become a more patient, knowledgeable, and compassionate Trainer.
  
 I am proud to call Austin home. I moved here in 2008 to obtain my B.S. in Kinesiology at UT and fell in love with the active and adventurous 
-nature of the city. Originally from Scotland, I have also lived in Oman, Chile, and New Orleans. I enjoy connecting with people from a diverse 
-background and thrive on hearing each person’s unique story. I believe that, despite our individuality, every person is equally capable of reaching 
+nature of the city. Originally from Scotland, I have also lived in Oman, Chile, and New Orleans. I enjoy connecting with people from diverse 
+backgrounds and thrive on hearing each person’s unique story. I believe that, despite our individuality, every person is equally capable of reaching 
 their individual health and fitness goals with the right commitment and determination. My passion lies in serving as a guide toward those goals 
 through accountability, encouragement and sharing my fitness secrets I’ve learned along the way. 
 
