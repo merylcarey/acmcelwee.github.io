@@ -92,6 +92,24 @@ Results happened fast and she got me on a routine and inspired me to keep on it.
 
 \- **Todd** &nbsp;&nbsp;&nbsp;&nbsp;<span class="testimonial-link">[Check it out on Yelp](http://www.yelp.com/biz/meryl-carey-personal-training-austin?hrid=r0GWodGsC9fP54KEa-8M0w)</span>
 
+<p class="testimonial-content">"Meryl is a rockstar trainer!  It's been over a year of working out with 
+her & she is always on point with how to get my body to change. It's been a challenge for me in the past 
+to find a workout routine that not only works, but fits my schedule -- Meryl's small group classes are 
+SO MUCH FUN. They last about 30-45 min (super convenient) & you meet other cool people :) She works with 
+you on finding the best time for your schedule while grouping you up with people for an affordable trainer 
+that you can see twice a week for months at a time! Meryl is a great listener when it comes to 
+modifications & really understands each client's needs.  During our group sessions, she literally gives 
+you 3 different options of how to do each set. UHM, no wonder why her arms and body are chiseled!!! LOL. 
+It's also reassuring to know that you are working out with a PRO PHYSIQUE MODEL. This girl takes care of 
+herself inside and out & wants the best for YOU, too! Meryl is a doll & very knowledgable about health & 
+nutrition. Are you ready to get fit!?"</p>
+<p class="testimonial-snippet">"It's been over a year of working out with her & she is always on point 
+with how to get my body to change. It's been a challenge for me in the past to find a workout routine 
+that not only works, but fits my schedule. Meryl is a great listener when it comes to modifications & 
+really understands each client's needs."</p>
+
+\- **Erica** &nbsp;&nbsp;&nbsp;&nbsp;<span class="testimonial-link">[Check it out on Yelp](http://www.yelp.com/biz/meryl-carey-personal-training-austin?hrid=Ub2L_gUnV_FoaQA7pQVdiA)</span>
+
 <p class="testimonial-content">"I love training with Meryl! She is a POWERHOUSE! Meryl is very attentive and
 pays close attention to me as an INDIVIDUAL, not just another body or session. Her well-rounded training
 philosophy keeps workouts challenging and interesting. Her personal fitness and competition experience
