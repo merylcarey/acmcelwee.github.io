@@ -9,7 +9,7 @@ permalink: /training-with-me/
 ### Services
 I offer Individual and Partner Personal Training, Small Group Training, and Figure Competition Coaching.
 
-Set up your FREE Consultation and Fitness Assessment [here](/contact) to discuss your goals and determine which program is best for you.
+Set up your FREE Consultation and Fitness Assessment [**here**](/contact) to discuss your goals and determine which program is best for you.
 
 ### What to Expect
 Each session is tailored to your unique body, needs, and goals. Whether your goal is to lose fat, gain strength, enhance performance, 
