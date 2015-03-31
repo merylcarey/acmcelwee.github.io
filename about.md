@@ -3,9 +3,19 @@ layout: page
 title: About
 permalink: /about/
 ---
-I'm proud to call Austin home and love the active, healthy, and adventurous nature of the city. I moved here to obtain my B.S. in Kinesiology from UT and quickly fell in love with the place. I came here with a diverse background, originally being from Scotland and having lived in Oman, Chile, and New Orleans.  
-
-I have harbored a true zeal for fitness since childhood, competing in Gymnastics, Dance, Swimming, Track, and Powerlifting. In my first Powerlifting meet in 2012, I broke Texas state records in the squat, bench, and deadlift categories. Most recently I have developed a passion for Figure Competition, securing my Pro Card in my first competition. Along with my love for sports, I simply enjoy being active, eating healthy food, and exploring new hobbies. My hope is to encourage people to find enjoyment in exercise and feel good about themselves. I enjoy sharing my passion for health and fitness with those around me, with the ultimate goal of helping others to lead healthier, happier lives!
+It is a privilege to be in the Personal Training industry, to share my passion for health and fitness and make a positive impact on the lives 
+of others. I have harbored a true zeal for fitness since childhood, competing in Gymnastics, Dance, Swimming, Track, and Powerlifting. In 2012, I 
+partook in a 70-day charity bike ride, in which I raised $8,000 for cancer research and cycled 4,000 miles from Austin to Alaska! That was enough 
+cycling for a lifetime, so I later switched gears to powerlifting. In my first Powerlifting meet, I broke Texas state records in the squat, bench, 
+and deadlift, qualifying myself for the 2014 World Championships. Most recently I have developed a passion for Figure Competition, securing my Pro 
+Card in my very first competition. Throughout my athletic endeavors, I have suffered several injuries and tackled many obstacles, allowing me to 
+become a more patient, knowledgeable, and compassionate Trainer.
+ 
+I am proud to call Austin home. I moved here in 2008 to obtain my B.S. in Kinesiology at UT and fell in love with the active and adventurous 
+nature of the city. Originally from Scotland, I have also lived in Oman, Chile, and New Orleans. I enjoy connecting with people from a diverse 
+background and thrive on hearing each person’s unique story. I believe that, despite our individuality, every person is equally capable of reaching 
+their individual health and fitness goals with the right commitment and determination. My passion lies in serving as a guide toward those goals 
+through accountability, encouragement and sharing my fitness secrets I’ve learned along the way. 
 
 Credentials:  
 **B.S. Kinesiology**  
