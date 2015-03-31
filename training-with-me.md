@@ -7,17 +7,23 @@ permalink: /training-with-me/
 ---
 
 ### Services
-I offer Individual and Semi-Private Personal Training, Group Training, and Figure Competition Coaching.
+I offer Individual and Partner Personal Training, Small Group Training, and Figure Competition Coaching.
+
+Set up your FREE Consultation and Fitness Assessment [here](/contact) to discuss your goals and determine which program is best for you.
 
 ### What to Expect
-Each session is tailored to your unique body, needs, and goals. Whether your goal is to lose fat, gain muscle, enhance performance, or simply get moving, I can help you get there. Expect to work hard and be challenged, while becoming educated on fitness and maximizing your potential! 
+Each session is tailored to your unique body, needs, and goals. Whether your goal is to lose fat, gain strength, enhance performance, 
+or simply get moving, I can help you get there. I emphasize safe and proper form, while encouraging you to push your 
+limits. Expect to work hard and be challenged, while becoming educated on fitness and maximizing your potential! 
 
 ### Training Philosophy
-I believe that balance is key and value the benefit of adding variety into each workout program, helping you to maintain fitness on a well-rounded level. I have developed expertise in the following areas:
+I believe that balance is key and value the benefit of adding variety into each workout program, allowing you to achieve fitness on a 
+well-rounded level. I have developed expertise in the following areas:
 
 * **Strength Training**
+* **Interval Training**
 * **Weight Lifting**
-* **Sculpting/Body Building**
+* **Body Sculpting**
 * **Functional Movement**
 * **Core Stability**
 * **Flexibility**

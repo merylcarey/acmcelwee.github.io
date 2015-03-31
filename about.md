@@ -3,10 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-It is a privilege to be in the Personal Training industry, to share my passion for health and fitness and make a positive impact on the lives 
-of others. I have harbored a true zeal for fitness since childhood, competing in Gymnastics, Dance, Swimming, Track, and Powerlifting. In 2012, I 
-partook in a 70-day charity bike ride, in which I raised $8,000 for cancer research and cycled 4,000 miles from Austin to Alaska! That was enough 
-cycling for a lifetime, so I later switched gears to powerlifting. In my first Powerlifting meet, I broke Texas state records in the squat, bench, 
+It is a privilege to be in the Personal Training industry. Through sharing my passion for health and fitness, I am able to have a positive effect
+on the lives of others. I have harbored a true zeal for fitness since childhood, competing in Gymnastics, Dance, Swimming, Track, and Powerlifting. 
+In 2012, I partook in a 70-day charity bike ride, in which I raised $8,000 for cancer research and cycled 4,000 miles from Austin to Alaska! That was 
+enough cycling for a lifetime, so I later switched gears to powerlifting. In my first Powerlifting meet, I broke Texas state records in the squat, bench, 
 and deadlift, qualifying myself for the 2014 World Championships. Most recently I have developed a passion for Figure Competition, securing my Pro 
 Card in my very first competition. Throughout my athletic endeavors, I have suffered several injuries and tackled many obstacles, allowing me to 
 become a more patient, knowledgeable, and compassionate Trainer.
