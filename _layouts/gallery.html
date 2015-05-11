@@ -1,0 +1,70 @@
+---
+---
+<!doctype html>
+<html>
+  {% include gallery_head.html %}
+  <body itemscope itemtype="http://schema.org/Article">
+    {% include header.html %}
+    <main class="content" role="main">
+    <article class="post{% if page.classes %}{{ page.classes | join ' ' | prepend:' ' }}{% endif %}">
+        {% if page.image %}
+        <div class="article-image">
+          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
+            Article Image
+          </div>
+          <div class="post-meta">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <div class="cf post-meta-text">
+              <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
+            </div>
+            <div style="text-align:center">
+              <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
+            </div>
+          </div>
+        </div>
+        {% else %}
+        <div class="noarticleimage">
+          <div class="post-meta">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <div class="cf post-meta-text">
+              <div class="author-image" style="background-image: url({{ page.author_image }})">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        {% endif %}
+        <section class="post-content">
+          <a name="topofpage"></a>
+          {{content}}
+        </section>
+      </article>
+    </main>
+    <div class="bottom-closer">
+      <div class="inner" style="background-image: url({{ site.cover }})">
+        <h1 class="blog-title">{{ site.title }}</h1>
+        <h2 class="blog-description">{{ site.subtitle }}</h2>
+        <a href="/" class="btn">Back to Overview</a>
+      </div>
+    </div>
+
+    {% include javascripts.html %}
+
+    <!-- Masonry layout lib -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.pkgd.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js"></script>
+
+    <!-- Photoswipe gallery lib-->
+    <!-- Core JS file -->
+    <script src="{{ "/assets/photoswipe/photoswipe.min.js" | prepend: site.baseurl  }}"></script> 
+    <!-- UI JS file -->
+    <script src="{{ "/assets/photoswipe/photoswipe-ui-default.min.js" | prepend: site.baseurl  }}"></script> 
+
+    <script>
+    {% include masonry_javascript.js %}
+    {% include photoswipe_javascript.js %}
+    </script>
+  </body>
+</html>

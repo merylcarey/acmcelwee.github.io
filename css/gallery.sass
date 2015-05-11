@@ -1,0 +1,43 @@
+---
+---
+
+@import 'bourbon/bourbon'
+
+$rs: 16px
+$mobile_breakpoint: 768
+$max_width: 900
+
+$font-serif: Linux Libertine
+$font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
+
+@mixin respond-to($breakpoint)
+  @media only screen and (max-width: $breakpoint + px), only screen and (max-device-width: $breakpoint + px)
+    @content
+
+main
+  display: block
+
+  #gallery-sizer
+    width: 140px
+    height: 1px
+
+  .gallery-wrapper
+    // padding-left: 10px
+    width: 100%
+
+  .my-gallery
+    width: 100%
+    margin-left: auto
+    margin-right: auto
+
+    .gallery-item
+      width: 180px
+      height: auto
+      display: block
+
+    .gallery-img
+      display: block
+      width: 100%
+      height: auto
+      padding-bottom: 10px
+
