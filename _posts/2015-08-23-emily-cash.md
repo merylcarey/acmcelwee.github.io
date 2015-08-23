@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transformation Motivation
-description: Emily Cash
+og_title: "Transformation Motivation: Emily Cash"
 subtitle: Emily Cash
 tags: success_stories
 classes: success-stories

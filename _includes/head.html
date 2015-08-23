@@ -24,22 +24,16 @@
   <link rel="stylesheet" type="text/css" media="screen" href="{{ "/css/main.css"  | prepend: site.baseurl  }}" />
   <link rel="stylesheet" type="text/css" media="print" href="{{ "/css/print.css"  | prepend: site.baseurl  }}" />
 
-  <meta content="{{ site.title }}" property="og:site_name">
-  {% if page.title %}
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% if page.og_title %}
+    <meta content="{{ page.og_title }}" property="og:title">
+  {% elsif page.title %}
     <meta content="{{ page.title }}" property="og:title">
   {% else %}
     <meta content="{{ site.title }}" property="og:title">
   {% endif %}
-  {% if page.title %}
-    <meta content="article" property="og:type">
-  {% else %}
-    <meta content="website" property="og:type">
-  {% endif %}
-  {% if page.description %}
-    <meta content="{{ page.description }}" property="og:description">
-  {% else %}
-    <meta content="{{ site.description }}" property="og:description">
-  {% endif %}
+  <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}" >
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   {% if page.url %}
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
   {% endif %}
