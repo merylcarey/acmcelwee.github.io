@@ -6,7 +6,7 @@
   <body itemscope itemtype="http://schema.org/Article">
     {% include header.html %}
     <main class="content" role="main">
-      <article class="post">
+      <article class="post{% if page.classes %}{{ page.classes | join ' ' | prepend:' ' }}{% endif %}">
         {% if page.image %}
         <div class="article-image">
           <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
@@ -30,6 +30,9 @@
         <div class="noarticleimage">
           <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <h2 class="post-subtitle">{{ page.subtitle }}</h2>
+            {% endif %}
             <div class="cf post-meta-text">
               <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
@@ -44,9 +47,6 @@
         <br>
         {% endif %}
         <section class="post-content">
-          <div class="post-reading">
-            <span class="post-reading-time"></span> read
-          </div>
           <a name="topofpage"></a>
           {{content}}
         </section>
@@ -63,6 +63,7 @@
           </section>
         </footer>
         <div class="bottom-teaser cf">
+          {% comment %}
           <div class="isLeft">
             <h5 class="index-headline featured"><span>Written by</span></h5>
             <section class="author">
@@ -73,25 +74,19 @@
               <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
             </section>
           </div>
+          {% endcomment %}
           {{/post}}
-          <div class="isRight">
-            <h5 class="index-headline featured"><span>Supported by</span></h5>
-            <footer class="site-footer">
-              <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a></section>
-              <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
-              <div class="inner">
-                <section class="copyright">All content copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
-              </div>
-            </footer>
-          </div>
+          <h5 class="index-headline featured"><span></span></h5>
+          <footer class="site-footer">
+            <div class="inner">
+              <section class="copyright">All content copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
+            </div>
+          </footer>
         </div>
       </article>
     </main>
     <div class="bottom-closer">
-      <div class="background-closer-image" {%if site.cover %} style="background-image: url({{ site.cover }})"{% endif %}>
-        Image
-      </div>
-      <div class="inner">
+      <div class="inner" style="background-image: url({{ site.cover }})">
         <h1 class="blog-title">{{ site.title }}</h1>
         <h2 class="blog-description">{{ site.subtitle }}</h2>
         <a href="/" class="btn">Back to Overview</a>

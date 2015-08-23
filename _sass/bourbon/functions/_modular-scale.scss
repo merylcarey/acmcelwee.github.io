@@ -34,7 +34,7 @@ $double-octave:    4;
   $double-stranded: $v2 > $v1;
 
   @if $increment > 0 {
-    @for $i from 1 through $increment {
+    @for $i from 1em through $increment {
       @if $double-stranded and ($v1 * $ratio) > $v2 {
         $value: $v2;
         $v2: ($v2 * $ratio);

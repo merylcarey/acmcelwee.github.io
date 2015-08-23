@@ -29,6 +29,8 @@ layout: default
       <span class="link-divider">&nbsp;&nbsp;·&nbsp;&nbsp;</span>
       <a class="navigation-link" href="/testimonials/">Testimonials</a>
       <span class="link-divider">&nbsp;&nbsp;·&nbsp;&nbsp;</span>
+      <a class="navigation-link" href="/success-stories/">Success Stories</a>
+      <span class="link-divider">&nbsp;&nbsp;·&nbsp;&nbsp;</span>
       <a class="navigation-link" href="/contact/">Contact</a>
     </div>
     <div class="social-links">
@@ -77,6 +79,7 @@ layout: default
     <h5 class="index-headline normal"><span>Regular</span></h5>
     {% endif %}
 
+    {% comment %}
     <div class="cf frame">
       {% for post in paginator.posts %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
@@ -111,6 +114,7 @@ layout: default
         {% endif %}
       {% endif %}
     </nav>
+    {% endcomment %}
 
 
     <!-- {{!! After all the posts, we have the previous/next pagination links }}
