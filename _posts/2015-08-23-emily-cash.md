@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Transformation Motivation
+description: Emily Cash
 subtitle: Emily Cash
 tags: success_stories
 classes: success-stories
+og_image: /assets/images/success-stories/emily_cash_after.jpg
 permalink: /success-stories/emily-cash
 ---
 
