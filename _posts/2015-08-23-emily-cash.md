@@ -6,7 +6,7 @@ subtitle: Emily Cash
 tags: success_stories
 classes: success-stories
 og_image: /assets/images/success-stories/emily_cash_after.jpg
-permalink: /success-stories/emily-cash
+permalink: /success-stories/emily-cash/
 ---
 
 Emily Cash deserves to be recognized for her commitment and dedication to her health and fitness. 
