@@ -7,10 +7,11 @@ classes: success-stories
 permalink: /success-stories/emily-cash
 ---
 
-Emily Cash deserves to be recognized for her hard work, commitment, and dedication to her health and fitness. 
+Emily Cash deserves to be recognized for her commitment and dedication to her health and fitness. 
 Emily has lost a whopping 30lbs since April 2015 and feels better than ever before! The amazing accomplishments 
 of this inspiring young woman prove that you CAN change, and you CAN reach your goals, no matter how far away 
-they may seem. Let her success story serve as motivation for you to keep challenging yourself and always believe 
+they may seem. I believe that it is Emily's positive attitude and consistent hard work that enabled her to reach her goals.
+Let her success story serve as motivation for you to keep challenging yourself and always believe 
 in your ability to change, grow, and improve. Keep it up Emily, we're all proud of you!
 
 <div class="photos-container">
