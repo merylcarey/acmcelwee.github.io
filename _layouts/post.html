@@ -59,6 +59,7 @@
                data-share="true">
           </div>
 
+          {% comment %}
           <section class="share">
             {% for social in site.social %}
               {% if social.share_url != null %}
@@ -69,6 +70,7 @@
               {% endif %}
             {% endfor %}
           </section>
+          {% endcomment %}
         </footer>
         <div class="bottom-teaser cf">
           {% comment %}
