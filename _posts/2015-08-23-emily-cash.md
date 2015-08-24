@@ -17,14 +17,18 @@ Let her success story serve as motivation for you to keep challenging yourself a
 in your ability to change, grow, and improve. Keep it up Emily, we're all proud of you!
 
 <div class="photos-container">
-  <span class="before-photo photo-container">
-    <span class="photo-title">April 2015</span>
-    <img class="photo" src="/assets/images/success-stories/emily_cash_before.jpg"/>
-  </span>
-  <span class="after-photo photo-container">
-    <span class="photo-title">August 2015</span>
-    <img class="photo" src="/assets/images/success-stories/emily_cash_after.jpg"/>
-  </span>
+  <div class="photo-container">
+    <figure class="before-photo">
+      <figcaption class="photo-title">April 2015</figcaption>
+      <img class="photo" src="/assets/images/success-stories/emily_cash_before.jpg"/>
+    </figure>
+  </div>
+  <div class="photo-container">
+    <figure class="after-photo">
+      <figcaption class="photo-title">August 2015</figcaption>
+      <img class="photo" src="/assets/images/success-stories/emily_cash_after.jpg"/>
+    </figure>
+  </div>
 </div>
 
 > "I recently had to run through an airport and I didn't feel like I was going to have a heart attack. I also went 
