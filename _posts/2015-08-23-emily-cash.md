@@ -18,15 +18,15 @@ in your ability to change, grow, and improve. Keep it up Emily, we're all proud 
 
 <div class="photos-container">
   <div class="photo-container">
-    <figure class="before-photo">
+    <figure>
       <figcaption class="photo-title">April 2015</figcaption>
-      <img class="photo" src="/assets/images/success-stories/emily_cash_before.jpg"/>
+      <img class="photo" src="/assets/images/success-stories/emily_cash_0.jpg"/>
     </figure>
   </div>
   <div class="photo-container">
-    <figure class="after-photo">
+    <figure>
       <figcaption class="photo-title">August 2015</figcaption>
-      <img class="photo" src="/assets/images/success-stories/emily_cash_after.jpg"/>
+      <img class="photo" src="/assets/images/success-stories/emily_cash_1.jpg"/>
     </figure>
   </div>
 </div>
