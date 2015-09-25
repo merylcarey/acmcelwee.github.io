@@ -35,11 +35,11 @@ believing in yourself!
 > "Powerlifting has provided me with physical activity that is both physically & mentally challenging. Training 
 & lifting have provided me with a confidence that permeates all areas of my life - personal and professional. 
 I believe training will increase my chances of lifelong health while decreasing the effects of aging such 
-as falls, broken bones, & stability. Find a physical activity that you enjoy and do it. If powerlifting is something 
-you're considering, go to a meet and get a sense of the energy among the lifters as well as the encouraging and 
-supportive environment."  
+as falls, broken bones, & stability.  
 <br/>
-"Powerlifting is a sport that one can start to train for later in life without any athletic background. I view 
+"Find a physical activity that you enjoy and do it. If powerlifting is something 
+you're considering, go to a meet and get a sense of the energy among the lifters as well as the encouraging and 
+supportive environment. Powerlifting is a sport that one can start to train for later in life without any athletic background. I view 
 it as stealth cardio. The ability to lift heavy weights provides a feeling of being empowered. Being strong is 
 an ego boost."  
 <br/>
