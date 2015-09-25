@@ -34,7 +34,7 @@ believing in yourself!
 
 > "Powerlifting has provided me with physical activity that is both physically & mentally challenging. Training 
 & lifting have provided me with a confidence that permeates all areas of my life - personal and professional. 
-I also believe training will increase my chances of lifelong health while decreasing the effects of aging such 
+I believe training will increase my chances of lifelong health while decreasing the effects of aging such 
 as falls, broken bones, & stability. Find a physical activity that you enjoy and do it. If powerlifting is something 
 you're considering, go to a meet and get a sense of the energy among the lifters as well as the encouraging and 
 supportive environment."  
