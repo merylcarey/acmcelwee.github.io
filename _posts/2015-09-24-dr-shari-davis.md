@@ -3,7 +3,7 @@ layout: post
 title: Transformation/Motivation
 og_title: "Transformation/Motivation: Dr. Shari Davis"
 subtitle: Dr. Shari Davis
-tags: _success_stories
+tags: success_stories
 classes: success-stories
 og_image: /assets/images/success-stories/emily_cash_after.jpg
 permalink: /success-stories/dr-shari-davis/
