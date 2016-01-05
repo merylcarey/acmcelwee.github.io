@@ -9,7 +9,8 @@ permalink: /training-with-me/
 ### Services
 I offer Individual and Partner Personal Training, Small Group Training, and Figure Competition Coaching.
 
-Set up your FREE Consultation and Fitness Assessment [**here**](/contact) to discuss your goals and determine which program is best for you.
+Set up your Consultation and Fitness Assessment [**here**](/contact) to discuss your goals and determine which program is best for you. 
+Initial consultations are $40. However, this fee is waived if you sign up for a training package.
 
 ### What to Expect
 Each session is tailored to your unique body, needs, and goals. Whether your goal is to lose fat, gain strength, enhance performance, 
@@ -39,7 +40,9 @@ With the purchase of sessions, I can offer complimentary Body Composition Assess
 
 
 ### Who is this Training Program for?
-I enjoy working with a wide variety of individuals, all shapes, sizes, and ages. To give you an idea, I have worked with business men & women, mothers, runners, triathletes, powerlifting athletes, college students, elderly individuals, blind individuals, couples, and groups. 
+I enjoy working with a wide variety of individuals of all shapes, sizes, and ages. To give you an idea, I 
+have worked with business men & women, mothers, runners, powerlifting athletes, college students, elderly 
+individuals, blind individuals, couples, and groups. 
 
 
 ### Referral Program

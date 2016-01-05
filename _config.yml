@@ -3,15 +3,15 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Meryl Carey"
-subtitle: "Fitness Expert"
+title: "M.C. Fit"
+subtitle: "Personal Training with Meryl Carey"
 
 meta:
-  title: "Meryl Carey - Fitness Expert - Austin, TX"
+  title: "M.C. Fit  - Personal Training with Meryl Carey - Austin, TX"
   description: "Meryl Carey is a certified personal trainer in Austin, TX. Contact me to take your fitness to the next level."
   keywords: "personal training austin texas fitness"
 
-logo_text: "M"
+# logo_text: "M"
 
 email: meryl@merylcarey.com
 #blog logo
@@ -19,7 +19,7 @@ email: meryl@merylcarey.com
 # blog cover
 cover: "/assets/images/dumbbells.JPG"
 
-name: 'Meryl Carey'
+name: 'M.C. Fit'
 author: 'Meryl Carey'
 # author_image: "/assets/images/author.jpg"
 
@@ -36,7 +36,7 @@ social:
     desc: Follow me on Instagram
 
   - icon:	facebook
-    url:	https://facebook.com/meryl.carey
+    url:	https://facebook.com/mcfitaustin
     desc: Connect with me on facebook
     share_url: //www.facebook.com/sharer.php
     share_title: ?t=

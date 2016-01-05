@@ -6,7 +6,7 @@ classes:
 permalink: /contact/
 ---
 
-Please contact me to set up your first **FREE** consult and workout!  
+Please contact me to set up your consultation and first workout!  
 Give it a go to see if I am the right fit for you.
 
 <form accept-charset="UTF-8" action="https://formkeep.com/f/db39ef75fa2d" method="POST" class="contact-form">
@@ -43,4 +43,4 @@ Give it a go to see if I am the right fit for you.
 
 Meryl Carey  
 <merylcarey@gmail.com>  
-2135 W Anderson Ln. Austin, TX
+3300 W Anderson Ln. Ste 301, Austin, TX
