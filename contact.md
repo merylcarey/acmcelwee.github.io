@@ -7,7 +7,7 @@ permalink: /contact/
 ---
 
 Please contact me to set up your consultation and first workout. Initial consultations 
-are $40. However, this fee is waived if you sign up for a training package.  
+are $50. However, this fee is waived if you sign up for a training package.  
 
 Give it a go to see if I am the right fit for you!
 

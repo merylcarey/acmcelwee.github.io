@@ -7,7 +7,7 @@ permalink: /training-with-me/
 ---
 
 ### Services
-I offer Individual and Partner Personal Training, Small Group Training, and Figure Competition Coaching.
+I offer Private Individual and Partner Personal Training.
 
 Set up your Consultation and Fitness Assessment [**here**](/contact) to discuss your goals and determine which program is best for you. 
 
