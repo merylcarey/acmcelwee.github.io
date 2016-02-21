@@ -7,9 +7,9 @@ permalink: /training-with-me/
 ---
 
 ### Services
-I offer Private Individual and Partner Personal Training.
+I offer Individual and Partner Personal Training at GYM ONE, located at 3300 W Anderson Ln, Ste 301. 
 
-Set up your Consultation and Fitness Assessment [**here**](/contact) to discuss your goals and determine which program is best for you. 
+Set up your Consultation and Fitness Assessment [**here**](/contact) to discuss your goals and see if we're the right fit for each other. 
 
 ### What to Expect
 Each session is tailored to your unique body, needs, and goals. Whether your goal is to lose fat, gain strength, enhance performance, 
