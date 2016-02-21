@@ -1,6 +1,6 @@
 # Build settings
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 
 # Site settings
 title: "M.C. Fit"
