@@ -33,18 +33,6 @@ layout: default
       <span class="link-divider">&nbsp;&nbsp;·&nbsp;&nbsp;</span>
       <a class="navigation-link" href="/contact/">Contact</a>
     </div>
-    <div class="social-links">
-      {% for social in site.social %}
-        {% if social.url %}
-          {% if !forloop.last %}
-          <span class="link-divider">&nbsp;&nbsp;·&nbsp;&nbsp;</span>
-          {% endif %}
-          <a class="icon-{{ social.icon }}" href="{{ social.url }}">
-            <i class="fa fa-{{ social.icon }}"></i>
-          </a>
-        {% endif %}
-      {% endfor %}
-    </div>
 </header>
 
 
