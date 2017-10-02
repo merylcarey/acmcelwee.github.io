@@ -7,7 +7,7 @@ permalink: /training-with-me/
 ---
 
 ### Services
-I offer Individual and Partner Personal Training at GYM ONE, located at 3300 W Anderson Ln, Ste 301. 
+I offer Individual and Partner Personal Training at GYM ONE, located at 2545 Brockton Dr #300, Austin, TX 78758
 
 Set up your Consultation and Fitness Assessment [**here**](/contact) to discuss your goals and see if we're the right fit for each other. 
 
