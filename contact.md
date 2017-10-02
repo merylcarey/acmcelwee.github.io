@@ -8,7 +8,7 @@ permalink: /contact/
 
 Thanks for visiting my site. I look forward to helping you achieve your health and fitness goals! Contact me below to get started.
 
-<form method="POST" action="http://formspree.io/merylcarey@gmail.com" class="contact-form">
+<form method="POST" action="https://formspree.io/merylcarey@gmail.com" class="contact-form">
   <label id="name">
     Name
     <input type="text" name="name" placeholder="Jane Doe" id="name"/>
