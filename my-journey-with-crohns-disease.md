@@ -2,7 +2,6 @@
 layout: page
 title: My Journey With Crohn's Disease
 og_image: /assets/images/headshot.jpg
-
 permalink: /my-journey-with-crohns-disease/
 ---
 After a year of struggling with severe health issues, I was diagnosed with Crohn’s disease,
