@@ -3,13 +3,13 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "M.C. Fit"
-subtitle: "Personal Training with Meryl Carey"
+title: "Fit and Fueled"
+subtitle: "Personal Training & Nutritional Therapy"
 
 meta:
-  title: "M.C. Fit  - Personal Training with Meryl Carey - Austin, TX"
+  title: "Fit and Fueled - Personal Training & Nutritional Therapy - Austin, TX"
   description: "Meryl Carey is a certified personal trainer in Austin, TX. Contact me to take your fitness to the next level."
-  keywords: "personal training austin texas fitness"
+  keywords: "personal training personal-training nutritional therapy nutritional-therapy nutrition austin texas fitness health"
 
 # logo_text: "M"
 
@@ -19,7 +19,7 @@ email: meryl@merylcarey.com
 # blog cover
 cover: "/assets/images/dumbbells.JPG"
 
-name: 'M.C. Fit'
+name: 'Fit and Fueled'
 author: 'Meryl Carey'
 # author_image: "/assets/images/author.jpg"
 
